@@ -4,7 +4,7 @@ Vous devez produire une application à l'aide du framework SpringBoot au backend
 
 ## Backend
 
-### 1. Date de remise:  Mardi le 2 Mai à 9h00
+### 1. Date de remise:  Mardi le 6 Mai à 8h00
 
 ### 2. Description:  Ce travail compte pour 20% de la note finale et est à double seuil.
 
@@ -29,5 +29,7 @@ Vous devez produire une application à l'aide du framework SpringBoot au backend
 •	Vous n’avez pas à produire la gestion des amendes.
 
 •	Sur le ‘landing page’, vous pouvez me donner une ‘liste déroulante’ ou des boutons permettant de choisir le type d’utilisateur ET l’utilisateur d’une session.  Autrement dit, quand vous allez créer des utilisateurs, ceux-ci se retrouveront sur le 'landing page' afin que l'on puisse choisir l'utilisateur avec lequel on veut travailler.
+
+* Vous ne devez pas implanter un 'login'.  Le faire constitue une violation à YAGNI
 
 
